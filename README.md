@@ -9,7 +9,7 @@ This project is a custom-built battle robot designed for competitive robotics ev
 # Overview  
 This project is a custom-built battle robot featuring a high-torque flipper mechanism and an ESP32-based wireless control system. Designed for competitive robotics, the robot combines precise movement control with rapid flipping action to outmaneuver and disable opponents. A custom ESP32 radio controller communicates with the robot via Bluetooth, enabling forward, backward, turning, and flipping commands with minimal latency. The build integrates mechanical design, embedded programming, and motor control for a complete hands-on robotics experience.  
 
-
+![Alt text](https://github.com/Kehara2002/Battle-Robot/blob/main/image.jpg)
 # Key Features  
 Flipper Mechanism: Powered by a DEO HET starter motor for fast, high-torque flipping.
 
